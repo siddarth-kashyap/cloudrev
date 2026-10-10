@@ -1,4 +1,4 @@
-[中文版本](https://github.com/cloudreve/cloudreve/blob/master/README_zh-CN.md)
+(https://github.com/cloudreve/cloudreve/blob/master/README_zh-CN.md)
 
 <h1 align="center">
   <br>
@@ -7,7 +7,7 @@
   Cloudreve
   <br>
 </h1>
-<h4 align="center">Self-hosted file management system with multi-cloud support.</h4>
+<h4 align="center">Self-hosted file management system with multi-cloud support</h4>
 
 <p align="center">
   <a href="https://dev.azure.com/abslantliu/cloudreve/_build?definitionId=6">
