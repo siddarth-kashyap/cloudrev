@@ -17,7 +17,6 @@ var (
 
 func init() {
 	flag.BoolVar(&util.UseWorkingDir, "use-working-dir", false, "Use working directory, instead of executable directory")
-	flag.StringVar(&confPath, "c", util.RelativePath("conf.ini"), "Path to the config file.")
 	flag.StringVar(&scriptName, "database-script", "", "Name of database util script.")
 	//flag.Parse()
 
