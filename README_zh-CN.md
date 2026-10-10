@@ -21,12 +21,16 @@
   <a href="https://github.com/cloudreve/cloudreve/releases">
      <img src="https://badgen.net/static/release%20size/34%20MB/blue"/>
   </a>
+    <a href="https://github.com/cloudreve/cloudreve/releases">
+     <img src="https://badgen.net/static/release%20size/34%20MB/blue"/>
+  </a>
   <a href="https://hub.docker.com/r/cloudreve/cloudreve">
   <img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/cloudreve/cloudreve" />
   </a>
 </p>
 <p align="center">
   <a href="https://cloudreve.org">主页</a> •
+   <a href="https://cloudreve.org">主页</a> •
   <a href="https://demo.cloudreve.org">演示</a> •
   <a href="https://github.com/cloudreve/cloudreve/discussions">讨论</a> •
   <a href="https://docs.cloudreve.org">文档</a> •
