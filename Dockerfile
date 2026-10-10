@@ -19,6 +19,8 @@ ENV CR_ENABLE_ARIA2=1 \
 COPY .build/aria2.supervisor.conf .build/entrypoint.sh ./
 COPY cloudreve ./cloudreve
 
+COPY .build/aria2.supervisor.conf .build/entrypoint.sh ./
+
 RUN chmod +x ./cloudreve \
     && chmod +x ./entrypoint.sh
 
