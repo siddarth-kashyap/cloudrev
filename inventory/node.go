@@ -10,7 +10,6 @@ import (
 type (
 	LoadNodeStoragePolicy struct{}
 	NodeClient            interface {
-		TxOperator
 		// ListActiveNodes returns the active nodes.
 		ListActiveNodes(ctx context.Context, subset []int) ([]*ent.Node, error)
 		// ListNodes returns the nodes with pagination.
