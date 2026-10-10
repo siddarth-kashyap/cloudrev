@@ -18,7 +18,6 @@ A few key points to keep in mind before you open a PR:
   open an issue first and wait for it to be triaged and labeled.
 - **Each PR should correspond to a single change.** Please split large features
   or refactors into multiple smaller PRs whenever possible.
-- If you use AI tools to help write code, please read the
   [AIGC Guidelines](https://docs.cloudreve.org/api/contributing#aigc-guidelines)
   first. We are not against AI, but we do not accept pure "vibe-coded" PRs.
 
