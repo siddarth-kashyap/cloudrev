@@ -25,11 +25,6 @@ jobs:
           version: "$(GO_VERSION)"
         displayName: Install Go
       - task: Docker@2
-        inputs:
-          containerRegistry: "CR DockerHub"
-          command: "login"
-          addPipelineData: false
-          addBaseImageData: false
       - task: CmdLine@2
         displayName: "Install tonistiigi/binfmt"
         inputs:
