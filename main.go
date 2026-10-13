@@ -18,10 +18,7 @@ var (
 func init() {
 	flag.BoolVar(&util.UseWorkingDir, "use-working-dir", false, "Use working directory, instead of executable directory")
 	flag.StringVar(&scriptName, "database-script", "", "Name of database util script.")
-	//flag.Parse()
-
-	//staticFS = bootstrap.NewFS(staticZip)
-	//bootstrap.Init(confPath, staticFS)
+	
 }
 
 func main() {
