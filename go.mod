@@ -45,15 +45,7 @@ require (
 	github.com/meilisearch/meilisearch-go v0.36.0
 	github.com/mholt/archives v0.1.3
 	github.com/mojocn/base64Captcha v0.0.0-20190801020520-752b1cd608b2
-	github.com/pquerna/otp v1.2.0
-	github.com/qiniu/go-sdk/v7 v7.19.0
-	github.com/rafaeljusto/redigomock v0.0.0-20191117212112-00b2509252a1
-	github.com/robfig/cron/v3 v3.0.1
-	github.com/samber/lo v1.38.1
-	github.com/speps/go-hashids v2.0.0+incompatible
-	github.com/spf13/cobra v1.7.0
-	github.com/spf13/pflag v1.0.5
-	github.com/stretchr/testify v1.11.1
+
 	github.com/tencentyun/cos-go-sdk-v5 v0.7.54
 	github.com/ua-parser/uap-go v0.0.0-20250213224047-9c035f085b90
 	github.com/upyun/go-sdk v2.1.0+incompatible
@@ -100,14 +92,7 @@ require (
 	github.com/go-webauthn/x v0.1.14 // indirect
 	github.com/go-xmlfmt/xmlfmt v0.0.0-20191208150333-d5b6f63a941b // indirect
 	github.com/goccy/go-json v0.10.5 // indirect
-	github.com/goccy/go-yaml v1.18.0 // indirect
-	github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0 // indirect
-	github.com/golang/geo v0.0.0-20210211234256-740aa86cb551 // indirect
-	github.com/google/go-cmp v0.7.0 // indirect
-	github.com/google/go-tpm v0.9.1 // indirect
-	github.com/gorilla/context v1.1.2 // indirect
-	github.com/hashicorp/errwrap v1.1.0 // indirect
-	github.com/hashicorp/go-multierror v1.1.1 // indirect
+	github
 	github.com/hashicorp/golang-lru v0.5.4 // indirect
 	github.com/hashicorp/golang-lru/v2 v2.0.7 // indirect
 	github.com/hashicorp/hcl/v2 v2.13.0 // indirect
